@@ -1,0 +1,19 @@
+{
+  "name": "zuri_node",
+  "version": "1.0.0",
+  "description": "A beginner nodejs zuri task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fave7903/zuri_node.git"
+  },
+  "author": "Favour Solomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fave7903/zuri_node/issues"
+  },
+  "homepage": "https://github.com/Fave7903/zuri_node#readme"
+}
